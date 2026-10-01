@@ -60,16 +60,43 @@ steps include:
 -Top Category sales
 -% of total sales
 
-##Dashboard pages
+##📈 Dashboard  pages
 1.Sales Overview
 KPI
 -Total sales
-total orders
-avg order value
-total quantity
-monthly sales trend 
-sales by payment method
-sales by region
+-Total orders
+-Avg order value
+-Units Sold
+-Monthly sales trend 
+-Sales by payment method
+-Sales by region
 2.Product and category analysis
+KPI-categories,Products tracked,Top Category,Top product
+-Sales by Category
+-Top 5 products by sales
+-Units sold by category
+3.Regional and customer analysis
+-Orders by region
+-Regional sales share
+-Orders by payment method
+
+🔑 Key Insights
+Furniture generated strong revenue despite having comparatively lower units sales.
+-South region recorded the highest sales among the regions.
+Credit/debit card was a major payment method with upi also contributing significantly.
+
+🛠️ Tools & Technologies
+Microdoft powerBI
+power query
+DAX
+📁 Project Structure
+Amazon Sales Analysis Dashboard/
+│
+├── Amazon Sales Analysis.pptx
+├──README.md
+├── Amazon_sales.CSV
+├── Amazonsales.pbix
+├── Amazonsales.pdf
+
 
 
